@@ -9,7 +9,7 @@
  *   - 将来リポジトリを消しても、最後にキャッシュされた状態で使い続けられる
  */
 
-const CACHE = 'uchigohan-v1';
+const CACHE = 'uchigohan-v5';
 
 const ASSETS = [
   './',
